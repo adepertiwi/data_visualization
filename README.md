@@ -13,7 +13,7 @@ This guide covers various topics of data visualization, including:
 - Distributions
 - Choosing Plot Types and Custom Styles
 
-*Source: [Seaborn Documentation](https://seaborn.pydata.org/)*
+*Source: [Kaggle Learn Data Visualization](https://www.kaggle.com/learn/data-visualization)*
 
 ## Names of GitHub Group Members:
 
